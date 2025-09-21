@@ -79,7 +79,7 @@ Ao selecionar os filtros, o usuário realiza uma consulta que retorna os dados d
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/agroview_web.git
+   git clone https://github.com/Luan-Kleber/agroview_web.git 
    ```
 2. Entre na pasta do projeto:
 
