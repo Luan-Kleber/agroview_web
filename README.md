@@ -1,6 +1,8 @@
 # AgroView - Dashboard de Produção Agrícola Municipal
 
-![Logo](./src/assets/logo_agroview.png)
+<p align="center">
+  <img src="./src/assets/logo_agroview.png" alt="Logo" height="100" />
+</p>
 
 ---
 
