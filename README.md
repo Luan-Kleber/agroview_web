@@ -109,8 +109,7 @@ Ao selecionar os filtros, o usuário realiza uma consulta que retorna os dados d
 5. Acesse no navegador:
    ```bash
    http://localhost:3000
-   # ou
-   (a porte que o vite informar)
+   (ou a porta que o Vite informar no terminal)
    ```
 
 ---
